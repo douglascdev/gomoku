@@ -1,5 +1,5 @@
 class Gomoku:
-    BLANK = ' '
+    BLANK = '   '
 
     def __init__(self, order: int = 15):
         self.order = order
